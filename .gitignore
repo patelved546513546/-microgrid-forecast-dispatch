@@ -3,6 +3,7 @@ venv/
 pycache/
 *.pyc
 .DS_Store
+data/ausgrid/
 data/weather_cache/
 data/*.zip
 data/*.rar
