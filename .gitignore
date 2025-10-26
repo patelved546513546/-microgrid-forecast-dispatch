@@ -1,0 +1,12 @@
+.venv/
+venv/
+pycache/
+*.pyc
+.DS_Store
+data/weather_cache/
+data/*.zip
+data/*.rar
+data/*.7z
+data/.tar
+.streamlit/
+.env
